@@ -5,7 +5,7 @@
 <p>VFX is a visual special effect. Refers to techniques and video materials used to capture images that cannot exist, scenes that cannot be filmed, or scenes that are problematic for the use of real objects.</p>
 <br>
 <h1>VFX designer</h1>
-<img width="1500" height="300" class="img-main" src="https://user-images.githubusercontent.com/57663482/70458287-25b2b580-1af5-11ea-9083-a5b7a7dcfb57.jpg">
+<img width="600" height="300" class="img-main" src="https://user-images.githubusercontent.com/57663482/70458287-25b2b580-1af5-11ea-9083-a5b7a7dcfb57.jpg">
 <div class="col-lg-7 col-lg-offset-1">
                 <h1>My future job</h1>
 <p>VFX designer</p>
